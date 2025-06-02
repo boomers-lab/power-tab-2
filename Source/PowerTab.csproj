@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<Product>PowerTab</Product>
+		<Product>BL-Power-Tab-2</Product>
 		<AssemblyVersion>2.0.1</AssemblyVersion>
-		<Version>1.4</Version>
+		<Version>1.5</Version>
 		<Copyright>$([System.DateTime]::Now.ToString('yyyy'))</Copyright>
 		<Company>Owlchemist</Company>
 		<TargetFramework>net48</TargetFramework>
